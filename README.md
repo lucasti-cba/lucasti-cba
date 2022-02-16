@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Image(https://c.tenor.com/vS0B8xHOOpMAAAAC/digitando-escrevendo.gif)
 <!--
 **lucasti-cba/lucasti-cba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
