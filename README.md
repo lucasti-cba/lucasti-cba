@@ -9,23 +9,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasti-cba" alt="lucasti-cba" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Trabalho atualmente em um projeto **de gerenciamento de imagens**
-
-- 🌱 Estou apreendendo no momento **Dart e Flutter.**
-
-- 👨‍💻 Procure saber mais em [https://www.webalive.com.br](https://www.webalive.com.br)
-
-- 📝 Escrevo no blog [https://www.webalive.com.br/blog](https://www.webalive.com.br/blog)
-
-- 💬 Me pergunte sobre **Python, Django, Pygames e .Net >=4.5**
-
-- 📫 Pode me enviar em **lucas.batista@webalive.com.br**
-
-- 📄 Sobre minhas experiências [https://www.webalive.com.br/blog](https://www.webalive.com.br/blog)
-
-- ⚡ Fato engraçado **Eu jogo LOL**
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
