@@ -3,7 +3,7 @@
 <h1 align="center">Olá 👋, eu sou Lucas A. Batista</h1>
 <h3 align="center">Engenheiro de Software e Empreendedor</h3>
 <p align="center">
- ![center](https://49.media.tumblr.com/7716ef547264521e476a067b1c8d2717/tumblr_mevr65Tt1i1s0odt8o1_500.gif)  
+ <img src="https://49.media.tumblr.com/7716ef547264521e476a067b1c8d2717/tumblr_mevr65Tt1i1s0odt8o1_500.gif" alt="lucasti-cba" /> 
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=lucasti-cba&label=Profile%20views&color=0e75b6&style=flat" alt="lucasti-cba" /> </p>
 
