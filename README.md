@@ -15,5 +15,5 @@
 
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasti-cba&show_icons=true&locale=pt-br&layout=big" alt="lucasti-cba" />
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasti-cba&show_icons=true&locale=pt-br" alt="lucasti-cba" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasti-cba&show_icons=true&locale=pt-br" alt="lucasti-cba" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasti-cba&show_icons=true&locale=pt-br" alt="lucasti-cba" /></p>
