@@ -1,5 +1,5 @@
 
-
+<style="background-color: #000fff" >
 <h1 align="center">Olá 👋, eu sou Lucas A. Batista</h1>
 <h3 align="center">Engenheiro de Software e Empreendedor</h3>
 <p align="center">
