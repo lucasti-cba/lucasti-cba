@@ -1,64 +1,6 @@
 
-<img src="https://github.com/BEPb/BEPb/raw/main/assets/Bottom_up.svg" alt="" style="max-width: 100%;">
-<!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 600 50" style="background-color: #00000000;" width="600px" height="50px">
-
-    
-                <path id="path0">
-                            <!-- Single line -->
-                                <animate id="d0" attributeName="d" begin="0s;d5.end" dur="5000ms" fill="remove" values="m0,25 h0 ; m0,25 h600 ; m0,25 h600 ; m0,25 h0" keyTimes="0;0.8;0.8;1"/>
-                    </path>
-    <text font-family="&quot;monospace&quot;, monospace" fill="#36BCF7" font-size="20" dominant-baseline="middle" x="50%" text-anchor="middle">
-        <textPath xlink:href="#path0">
-            Hi there 👋, I am Lucas A. Batista
-        </textPath>
-    </text>
-        <path id="path1">
-                            <!-- Single line -->
-                                <animate id="d1" attributeName="d" begin="d0.end" dur="5000ms" fill="remove" values="m0,25 h0 ; m0,25 h600 ; m0,25 h600 ; m0,25 h0" keyTimes="0;0.8;0.8;1"/>
-                    </path>
-    <text font-family="&quot;monospace&quot;, monospace" fill="#36BCF7" font-size="20" dominant-baseline="middle" x="50%" text-anchor="middle">
-        <textPath xlink:href="#path1">
-            Bem Vindo ao meu perfil!
-        </textPath>
-    </text>
-        <path id="path2">
-                            <!-- Single line -->
-                                <animate id="d2" attributeName="d" begin="d1.end" dur="5000ms" fill="remove" values="m0,25 h0 ; m0,25 h600 ; m0,25 h600 ; m0,25 h0" keyTimes="0;0.8;0.8;1"/>
-                    </path>
-    <text font-family="&quot;monospace&quot;, monospace" fill="#36BCF7" font-size="20" dominant-baseline="middle" x="50%" text-anchor="middle">
-        <textPath xlink:href="#path2">
-            Com 6 anos de experiência. :unlock:
-        </textPath>
-    </text>
-        <path id="path3">
-                            <!-- Single line -->
-                                <animate id="d3" attributeName="d" begin="d2.end" dur="5000ms" fill="remove" values="m0,25 h0 ; m0,25 h600 ; m0,25 h600 ; m0,25 h0" keyTimes="0;0.8;0.8;1"/>
-                    </path>
-    <text font-family="&quot;monospace&quot;, monospace" fill="#36BCF7" font-size="20" dominant-baseline="middle" x="50%" text-anchor="middle">
-        <textPath xlink:href="#path3">
-            Adoro aprender novas coisas :alien:
-        </textPath>
-    </text>
-        <path id="path4">
-                            <!-- Single line -->
-                                <animate id="d4" attributeName="d" begin="d3.end" dur="5000ms" fill="remove" values="m0,25 h0 ; m0,25 h600 ; m0,25 h600 ; m0,25 h0" keyTimes="0;0.8;0.8;1"/>
-                    </path>
-    <text font-family="&quot;monospace&quot;, monospace" fill="#36BCF7" font-size="20" dominant-baseline="middle" x="50%" text-anchor="middle">
-        <textPath xlink:href="#path4">
-            Arquitetura de software
-        </textPath>
-    </text>
-        <path id="path5">
-                            <!-- Single line -->
-                                <animate id="d5" attributeName="d" begin="d4.end" dur="5000ms" fill="remove" values="m0,25 h0 ; m0,25 h600 ; m0,25 h600 ; m0,25 h0" keyTimes="0;0.8;0.8;1"/>
-                    </path>
-    <text font-family="&quot;monospace&quot;, monospace" fill="#36BCF7" font-size="20" dominant-baseline="middle" x="50%" text-anchor="middle">
-        <textPath xlink:href="#path5">
-            C# lover :two_hearts:
-        </textPath>
-    </text>
-</svg>
+<img src="https://github.com/BEPb/BEPb/raw/main/assets/Bottom_up.svg" alt="" style="max-width: 100%;" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+Hi+there+%F0%9F%91%8B%2C+I+am+Lucas+A.+Batista;+Bem+Vindo+ao+meu+perfil!;+Com+6+anos+de+experi%C3%AAncia.+%3Aunlock%3A;+Adoro+aprender+novas+coisas+%3Aalien%3A;Arquitetura+de+software;C%23+lover+%3Atwo_hearts%3A)](https://git.io/typing-svg)
 
 <h1 align="center" style="color: #f0f0f0f0">Olá 👋, eu sou Lucas A. Batista</h1>
 <h3 align="center">Engenheiro de Software e Empreendedor</h3>
