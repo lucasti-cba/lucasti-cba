@@ -1,5 +1,5 @@
 
-<img src="https://github.com/BEPb/BEPb/raw/main/assets/Bottom_up.svg" alt="" style="max-width: 100%;" />
+<img  width="100%"  src="https://github.com/BEPb/BEPb/raw/main/assets/Bottom_up.svg" alt="" style="max-width: 100%;" />
 
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=+Hi+there+%F0%9F%91%8B%2C+I+am+Lucas+A.+Batista;+Bem+Vindo+ao+meu+perfil!;+Com+6+anos+de+experi%C3%AAncia.+%F0%9F%94%93;+Adoro+aprender+novas+coisas+%F0%9F%91%BD;Arquitetura+de+software;C%23+lover+%F0%9F%92%95)](https://git.io/typing-svg)
