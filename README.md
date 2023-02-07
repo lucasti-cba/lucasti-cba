@@ -1,5 +1,5 @@
 
-<img src="/BEPb/BEPb/raw/main/assets/Bottom_up.svg" alt="" style="max-width: 100%;">
+<img src="https://github.com/BEPb/BEPb/raw/main/assets/Bottom_up.svg" alt="" style="max-width: 100%;">
 <h1 align="center" style="color: #f0f0f0f0">Olá 👋, eu sou Lucas A. Batista</h1>
 <h3 align="center">Engenheiro de Software e Empreendedor</h3>
 <p align="center">
