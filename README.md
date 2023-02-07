@@ -16,8 +16,8 @@
 
 <p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasti-cba&show_icons=true&locale=en&layout=compact" alt="lucasti-cba" /></p>
 
-<p  align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasti-cba&show_icons=true&locale=en" alt="lucasti-cba" />
+<p >&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=lucasti-cba&show_icons=true&locale=en" alt="lucasti-cba" />
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasti-cba&" alt="lucasti-cba" /></p>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasti-cba&" alt="lucasti-cba" /></p>
 
 <img width="100%" src="https://camo.githubusercontent.com/478c2e71786ef0b7594563a540d5469f19c2f6a7989567e7277addf3e80031e6/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=00bfbf&amp;height=120&amp;section=footer" style="max-width: 100%;">
