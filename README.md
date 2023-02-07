@@ -1,7 +1,9 @@
 
 <img src="https://github.com/BEPb/BEPb/raw/main/assets/Bottom_up.svg" alt="" style="max-width: 100%;" />
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+Hi+there+%F0%9F%91%8B%2C+I+am+Lucas+A.+Batista;+Bem+Vindo+ao+meu+perfil!;+Com+6+anos+de+experi%C3%AAncia.+%3Aunlock%3A;+Adoro+aprender+novas+coisas+%3Aalien%3A;Arquitetura+de+software;C%23+lover+%3Atwo_hearts%3A)](https://git.io/typing-svg)
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=+Hi+there+%F0%9F%91%8B%2C+I+am+Lucas+A.+Batista;+Bem+Vindo+ao+meu+perfil!;+Com+6+anos+de+experi%C3%AAncia.+%3Aunlock%3A;+Adoro+aprender+novas+coisas+%3Aalien%3A;Arquitetura+de+software;C%23+lover+%3Atwo_hearts%3A)](https://git.io/typing-svg)
+ 
 </p>
 
 
