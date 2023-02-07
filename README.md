@@ -1,10 +1,10 @@
 
 <img src="https://github.com/BEPb/BEPb/raw/main/assets/Bottom_up.svg" alt="" style="max-width: 100%;" />
-
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+Hi+there+%F0%9F%91%8B%2C+I+am+Lucas+A.+Batista;+Bem+Vindo+ao+meu+perfil!;+Com+6+anos+de+experi%C3%AAncia.+%3Aunlock%3A;+Adoro+aprender+novas+coisas+%3Aalien%3A;Arquitetura+de+software;C%23+lover+%3Atwo_hearts%3A)](https://git.io/typing-svg)
+</p>
 
-<h1 align="center" style="color: #f0f0f0f0">Olá 👋, eu sou Lucas A. Batista</h1>
-<h3 align="center">Engenheiro de Software e Empreendedor</h3>
+
 <p align="center">
  <img src="https://49.media.tumblr.com/7716ef547264521e476a067b1c8d2717/tumblr_mevr65Tt1i1s0odt8o1_500.gif" alt="lucasti-cba" /> 
 </p>
